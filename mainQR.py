@@ -3,7 +3,9 @@ import base64
 import webbrowser
 import time
 
-
+#Dev by NASSSIMAX 
+# NASSI% HIDOUCHE
+#https://t.me/exppointer
 textData = input('enter your text : '.capitalize())
 fileName = input('filename : '.capitalize())
 pathFile = f"imgQR/{fileName}.png"
