@@ -4,7 +4,7 @@ import webbrowser
 import time
 
 #Dev by NASSSIMAX 
-# NASSI% HIDOUCHE
+# NASSIM HIDOUCHE
 #https://t.me/exppointer
 textData = input('enter your text : '.capitalize())
 fileName = input('filename : '.capitalize())
